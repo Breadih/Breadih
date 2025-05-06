@@ -2,8 +2,8 @@ Heyo! I'm bread.
 Currently learning multimedia dev full-stack.
 
 ## Currently owner of 
-Miss-Marvelline (Discord Bot)
-NovaVerse Solutions (E-Solutions company)
+* Miss-Marvelline (Discord Bot)
+* NovaVerse Solutions (E-Solutions company)
 
 ## 📏 Currently working on
 * NovaAPI
