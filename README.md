@@ -6,14 +6,16 @@ Currently learning multimedia dev full-stack.
 * NovaVerse Solutions (E-Solutions company)
 
 ## 📏 Currently working on
-* NovaAPI
-* NovaVerse Bot
-* Miss-Marvelline
+* NovaVerse Solutions (owner)
+* Miss Marvelline (Lead Developer)
+* KokoMart Shopping (Vice-Chairman)
+* KokoBot Support (Co-Owner)
 
 ## ✨ Knowledge in:
 * Frontend
 * Backend
 * Multimedia Development
+* UI/UX
 
 # Motivational Quote:
 **Programming isn’t about what you know; it’s about what you can figure out.**
