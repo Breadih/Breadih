@@ -11,6 +11,8 @@ Currently learning multimedia dev full-stack.
 * KokoMart Shopping (Vice-Chairman)
 * KokoBot Support (Co-Owner)
 * Lory's Shopping (Development Team)
+* NemusTechs (Administrator)
+* PoofServices (Admin)
 
 ## ✨ Knowledge in:
 * Frontend
