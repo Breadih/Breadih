@@ -24,3 +24,6 @@ Always trying my max 💪
 
 ## 🛠️ Using the following tools.
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio,blender,css,html,discord,git,github,ai,ps,js,obsidian,ts,figma,xd&theme=dark)](https://skillicons.dev)
+
+Join my Server!
+https://discord.gg/FEW8ARgXYx
