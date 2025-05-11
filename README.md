@@ -5,11 +5,12 @@ Currently learning multimedia dev full-stack.
 * Miss-Marvelline (Discord Bot)
 * NovaVerse Solutions (E-Solutions company)
 
-## 📏 Currently working on
+## 👨‍💼 Currently employed / positions / experience
 * NovaVerse Solutions (owner)
 * Miss Marvelline (Lead Developer)
 * KokoMart Shopping (Vice-Chairman)
 * KokoBot Support (Co-Owner)
+* Lory's Shopping (Development Team)
 
 ## ✨ Knowledge in:
 * Frontend
