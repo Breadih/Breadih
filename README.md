@@ -17,6 +17,7 @@ Currently learning multimedia dev full-stack.
 * Backend
 * Multimedia Development
 * UI/UX
+* Devops
 
 # Motivational Quote:
 **Programming isn’t about what you know; it’s about what you can figure out.**
