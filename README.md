@@ -8,9 +8,8 @@ Currently learning multimedia dev full-stack.
 ## 👨‍💼 Currently employed / positions / experience
 * NovaVerse Solutions (owner)
 * Miss Marvelline (Lead Developer)
-* KokoBot Support (Co-Owner)
-* Lory's Shopping (Development Team)
-* PoofServices (Admin)
+* Lory's Shopping (Development Leadership)
+* Bloxco Stores (Junior Corporate)
 
 ## ✨ Knowledge in:
 * Frontend
