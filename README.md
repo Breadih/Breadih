@@ -27,4 +27,5 @@ Always trying my max 💪
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,robloxstudio,blender,css,html,discord,git,ai,ps,js,vscode,obsidian,ts,figma,xd,discordjs,mongodb,react,npm,vim,vercel,bash,windows,apple,linux,arch,vim&theme=dark)](https://skillicons.dev)
 
 Love my work? Consider supporting me <3 (if you can't support, recommend me to your mates, who knows, they might need a hand at something :>)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E81H2FIE)
